@@ -20,8 +20,8 @@ src/utils/filljobs2.ts
 
 .esbuild
 
-.env
 
 .idea
 
 .vscode
+config.bat
