@@ -20,10 +20,10 @@ src/utils/filljobs2.ts
 
 .esbuild
 
-.env
 
 .idea
 
 .vscoded
 
 dist
+config.bat
