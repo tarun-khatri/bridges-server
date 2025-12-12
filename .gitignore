@@ -20,7 +20,6 @@ src/utils/filljobs2.ts
 
 .esbuild
 
-.env
 
 .idea
 
@@ -29,3 +28,4 @@ src/utils/filljobs2.ts
 dist
 
 .vscode
+config.bat
